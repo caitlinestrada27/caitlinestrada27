@@ -5,7 +5,6 @@ I am a student at the University of North Carolina at Chapel Hill from New Orlea
 <div align = "center"> 
   
   [![Handshake](https://img.shields.io/badge/Handshake-red)](https://app.joinhandshake.com/profiles/49733713)
-  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/caitlin-estrada/)
 </div>
 <div align = "center">
