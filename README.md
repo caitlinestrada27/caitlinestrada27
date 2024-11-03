@@ -4,15 +4,10 @@ I am a student at the University of North Carolina at Chapel Hill from New Orlea
 
 <div align = "center">
   [![Email](https://img.shields.io/badge/Email-caitlinestrada27%40gmail.com-blue)](mailto:caitlinestrada27@gmail.com)
-  <a href = "https://app.joinhandshake.com/profiles/49733713">
-    <img src = "https://img.shields.io/badge/ -Handshake-red"/>
-  </a>
   
-  <a href = "https://www.linkedin.com/in/caitlin-estrada/">
-    <img src = "https://img.shields.io/badge/-LinkedIn-blue"/>
-  </a>
-
+  [![Handshake](https://img.shields.io/badge/Handshake-Profile-red)](https://app.joinhandshake.com/profiles/49733713)
   
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/caitlin-estrada/)
 </div>
 <div align = "center">
   <img src = "https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcaitlinestrada27%2Fcaitlinestrada27&label=Visitors&countColor=%23f47373"/>
