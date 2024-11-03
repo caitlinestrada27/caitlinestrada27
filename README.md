@@ -1,4 +1,3 @@
 ## Hi there, I'm Caitlin 👋
 
-Computer Science @ UNC Chapel Hill
-Business Administration @ UNC Kenan-Flagler School of Business 
+I am a student at the University of North Carolina at Chapel Hill expecting to graduate in the spring of 2027. I am studying Computer Science and Business Administration (@ UNC Kenan-Flagler Business School). 
