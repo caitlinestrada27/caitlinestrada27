@@ -3,7 +3,7 @@
 I am a student at the University of North Carolina at Chapel Hill from New Orleans, LA expecting to graduate in the spring of 2027. I am studying Computer Science and Business Administration (@ UNC Kenan-Flagler Business School). Reach out to me below! 
 
 <div align = "center">
-  [![Email](https://img.shields.io/badge/Email-blue)](mailto:caitlinestrada27@gmail.com)
+  [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:caitlinestrada27@gmail.com)
   
   [![Handshake](https://img.shields.io/badge/Handshake-red)](https://app.joinhandshake.com/profiles/49733713)
   
