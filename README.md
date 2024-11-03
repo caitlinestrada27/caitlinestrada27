@@ -2,10 +2,10 @@
 
 I am a student at the University of North Carolina at Chapel Hill from New Orleans, LA expecting to graduate in the spring of 2027. I am studying Computer Science and Business Administration (@ UNC Kenan-Flagler Business School). 
 
-## 👩‍💼 Jobs
-Undergraduate Teaching Assistant for COMP 110: Introduction to Programming
-Teaching Assistant for Girls Who Code
-iOS Apprentice @ App Team Carolina
+## 👩‍💼 Experiences
+Undergraduate Teaching Assistant for COMP 110: Introduction to Programming <br/>
+Teaching Assistant for Girls Who Code <br/>
+iOS Apprentice @ App Team Carolina <br/>
 Prev Software Engineering Intern @ Shutterstock 
 
 ## 📖 Languages
@@ -21,5 +21,5 @@ Prev Software Engineering Intern @ Shutterstock
 
 ## 📊 Projects
 
-Currently working on final project for App Team Carolina iOS Apprenticeship
+Currently working on final project for App Team Carolina iOS Apprenticeship <br/>
 Enrolled in COMP 211 Systems Fundamentals and COMP 301 Foundations of Programming 
