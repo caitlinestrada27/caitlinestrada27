@@ -1,3 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Caitlin 👋
 
-I'm Caitlin, a Computer Science and Business Administration student at UNC Chapel Hill from New Orleans, LA expecting to graduate in Spring of 2027. 
+Computer Science @ UNC Chapel Hill
+Business Administration @ UNC Kenan-Flagler School of Business 
