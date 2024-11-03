@@ -2,7 +2,7 @@
 
 I am a student at the University of North Carolina at Chapel Hill from New Orleans, LA expecting to graduate in the spring of 2027. I am studying Computer Science and Business Administration (@ UNC Kenan-Flagler Business School). 
 
-## 👩‍💼 Experiences
+## 👩‍💼 Experience
 Undergraduate Teaching Assistant for COMP 110: Introduction to Programming <br/>
 Teaching Assistant for Girls Who Code <br/>
 iOS Apprentice @ App Team Carolina <br/>
