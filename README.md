@@ -3,11 +3,11 @@
 I am a student at the University of North Carolina at Chapel Hill from New Orleans, LA expecting to graduate in the spring of 2027. I am studying Computer Science and Business Administration (@ UNC Kenan-Flagler Business School). Reach out to me below! 
 
 <div align = "center">
-  [![Email](https://img.shields.io/badge/Email-caitlinestrada27%40gmail.com-blue)](mailto:caitlinestrada27@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-blue)](mailto:caitlinestrada27@gmail.com)
   
-  [![Handshake](https://img.shields.io/badge/Handshake-Profile-red)](https://app.joinhandshake.com/profiles/49733713)
+  [![Handshake](https://img.shields.io/badge/Handshake-red)](https://app.joinhandshake.com/profiles/49733713)
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/caitlin-estrada/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/caitlin-estrada/)
 </div>
 <div align = "center">
   <img src = "https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcaitlinestrada27%2Fcaitlinestrada27&label=Visitors&countColor=%23f47373"/>
