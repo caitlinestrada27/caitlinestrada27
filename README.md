@@ -1,6 +1,10 @@
-## Hi there, I'm Caitlin 👋
+# Hi there, I'm Caitlin 👋
 
-I am a student at the University of North Carolina at Chapel Hill from New Orleans, LA expecting to graduate in the spring of 2027. I am studying Computer Science and Business Administration (@ UNC Kenan-Flagler Business School). 
+I am a student at the University of North Carolina at Chapel Hill from New Orleans, LA expecting to graduate in the spring of 2027. I am studying Computer Science and Business Administration (@ UNC Kenan-Flagler Business School). Reach out to me below! 
+
+<div align = "center">
+  <img src = "https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjacbro2021%2Fjacbro2021&label=Visitors&countColor=%23f47373"/>
+</div>
 
 ## 👩‍💼 Experience
 Undergraduate Teaching Assistant for COMP 110: Introduction to Programming <br/>
