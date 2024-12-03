@@ -30,4 +30,5 @@ Prev Software Engineering Intern @ Shutterstock
 
 ## 📊 Projects
 
+Recently completed Final Project for App Team Carolina iOS Apprenticeship!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caitlinestrada27&repo=f24-apprenticeship-final-communitycare-caitlinestrada27)]([https://github.com/caitlinestrada27/f24-apprenticeship-final-communitycare-caitlinestrada27])
