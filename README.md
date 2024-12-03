@@ -30,5 +30,5 @@ Prev Software Engineering Intern @ Shutterstock
 
 ## 📊 Projects
 
-Currently working on final project for App Team Carolina iOS Apprenticeship <br/>
-Enrolled in COMP 211 Systems Fundamentals and COMP 301 Foundations of Programming 
+Enrolled in COMP 211 Systems Fundamentals and COMP 301 Foundations of Programming <br/>
+Recently completed final project for App Team Carolina iOS Apprenticeship (see below! v)
