@@ -30,5 +30,4 @@ Prev Software Engineering Intern @ Shutterstock
 
 ## 📊 Projects
 
-Enrolled in COMP 211 Systems Fundamentals and COMP 301 Foundations of Programming <br/>
-Recently completed final project for App Team Carolina iOS Apprenticeship (see below! v)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caitlinestrada27&repo=f24-apprenticeship-final-communitycare-caitlinestrada27)]([https://github.com/caitlinestrada27/f24-apprenticeship-final-communitycare-caitlinestrada27])
