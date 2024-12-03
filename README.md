@@ -30,7 +30,7 @@ Prev Software Engineering Intern @ Shutterstock
 
 ## 📊 Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caitlinestrada27&repo=heelhouse)]([https://github.com/caitlinestrada27/heelhouse])
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caitlinestrada27&repo=pokemon)]([https://github.com/caitlinestrada27/pokemon])
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caitlinestrada27&repo=f24-apprenticeship-final-communitycare-caitlinestrada27)]([https://github.com/caitlinestrada27/f24-apprenticeship-final-communitycare-caitlinestrada27])
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caitlinestrada27&repo=s24-academy-final-wordle-caitlinestrada27)]([[https://github.com/caitlinestrada27/f24-apprenticeship-final-communitycare-caitlinestrada27](https://github.com/caitlinestrada27/s24-academy-final-wordle-caitlinestrada27)])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caitlinestrada27&repo=heelhouse)]([https://github.com/caitlinestrada27/heelhouse])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caitlinestrada27&repo=pokemon)]([https://github.com/caitlinestrada27/pokemon])
