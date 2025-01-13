@@ -7,13 +7,11 @@ I am a student at the University of North Carolina at Chapel Hill from New Orlea
   [![Handshake](https://img.shields.io/badge/Handshake-red)](https://app.joinhandshake.com/profiles/49733713)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/caitlin-estrada/)
 </div>
-<div align = "center">
-  <img src = "https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcaitlinestrada27%2Fcaitlinestrada27&label=Visitors&countColor=%23f47373"/>
-</div>
 
 ## 👩‍💼 Experience
+Incoming Fraud Product Strategy Intern @ SAS <br/>
 Undergraduate Teaching Assistant for COMP 110: Introduction to Programming <br/>
-Teaching Assistant for Girls Who Code <br/>
+Facilitator for Girls Who Code <br/>
 iOS Apprentice @ App Team Carolina <br/>
 Prev Software Engineering Intern @ Shutterstock 
 
