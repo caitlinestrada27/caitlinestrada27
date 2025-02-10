@@ -11,8 +11,8 @@ I am a student at the University of North Carolina at Chapel Hill from New Orlea
 ## 👩‍💼 Experience
 Incoming Fraud Product Strategy Intern @ SAS <br/>
 Undergraduate Teaching Assistant for COMP 110: Introduction to Programming <br/>
-Facilitator for Girls Who Code <br/>
 Product Manager on PORCH @ App Team Carolina <br/>
+Facilitator for Girls Who Code <br/>
 Prev Software Engineering Intern @ Shutterstock 
 
 ## 📖 Languages
