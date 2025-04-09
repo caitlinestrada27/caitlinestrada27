@@ -1,21 +1,13 @@
 # Hi there, I'm Caitlin 👋
 
-I am a student at the University of North Carolina at Chapel Hill from New Orleans, LA expecting to graduate in the spring of 2027. I am studying Computer Science and Business Administration (@ UNC Kenan-Flagler Business School). Reach out to me below! 
+I am a student at the University of North Carolina at Chapel Hill from New Orleans, LA, expecting to graduate in the spring of 2027. I am studying Computer Science and Business Administration (@ UNC Kenan-Flagler Business School). Reach out to me below! 
 
 <div align = "center"> 
-  
   [![Handshake](https://img.shields.io/badge/Handshake-red)](https://app.joinhandshake.com/profiles/49733713)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/caitlin-estrada/)
 </div>
 
-## 👩‍💼 Experience
-Incoming Fraud Product Strategy Intern @ SAS <br/>
-Undergraduate Teaching Assistant for COMP 110: Introduction to Programming <br/>
-Product Manager on PORCH @ App Team Carolina <br/>
-Facilitator for Girls Who Code <br/>
-Prev Software Engineering Intern @ Shutterstock 
-
-## 📖 Programming Langugaes/Frameworks/Tools
+## 📖 Programming Languages/Frameworks/Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
