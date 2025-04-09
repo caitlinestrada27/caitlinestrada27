@@ -31,6 +31,8 @@ I am a student at the University of North Carolina at Chapel Hill from New Orlea
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Autodesk CAD](https://img.shields.io/badge/-AutoCAD-E51050?style=for-the-badge&logo=autocad&logoColor=white)
 
 ## 📊 Projects
 
